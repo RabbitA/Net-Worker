@@ -5,3 +5,7 @@ This is a small Spider Program which use BFS (Breadth-first search) algorithm to
 Still in Developing currently.
 
 Note: You may need to download <a href="https://jsoup.org/download">jsoup.jar</a> before using this code.
+
+Output should like this:
+
+<img src="">
